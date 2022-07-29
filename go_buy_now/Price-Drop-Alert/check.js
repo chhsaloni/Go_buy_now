@@ -121,7 +121,7 @@ async function com(){
 
             var mailOption={
                 from:'checkernodemail@gmail.com',//sender email
-                to:'samsunnymishra@gmail.com',//reciever email
+                to:'salonichhaparwal0@gmail.com',//reciever email
                 subject:'price drop',//subject
                 text: `your ${name} is under budget at ${minimun_price}`,
             };
